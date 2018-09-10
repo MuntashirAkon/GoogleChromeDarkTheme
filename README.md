@@ -1,4 +1,8 @@
 # Dark Mode for Dark Reader
+<center>
+  <img src="./Screenshot/Screen Shot 2018-09-10 at 3.29.43 PM.png" />
+</center>
+
 [Dark Reader](https://github.com/darkreader/darkreader) is a well-known chrome extension
 that makes the websites appear as dark. This theme matches with the Dark Reader's dark mode.
 
