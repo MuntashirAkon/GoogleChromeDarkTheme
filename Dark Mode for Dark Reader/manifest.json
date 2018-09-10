@@ -1,0 +1,32 @@
+{
+    "name": "Dark Mode for Dark Reader",
+    "version": "1.0",
+    "description": "A simple Dark Mode matching the famous Dark Reader, includes a nice autumn background",
+	"author": "Muntashir Al-Islam",
+    "manifest_version": 2,
+    "theme": {
+        "images": {
+            "theme_frame": "images\/theme_frame.png",
+            "theme_toolbar": "images\/theme_toolbar.png",
+            "theme_tab_background": "images\/theme_tab_background.png",
+            "theme_ntp_background":"images\/theme_ntp_background.png"
+            },
+        "colors": {
+            "frame": [48,46,45],
+            "toolbar": [48,46,45],
+            "tab_text": [243,235,212],
+            "tab_background_text": [243,235,212],
+            "bookmark_text": [243,235,212],
+            "ntp_background": [48,46,45,1.0],
+            "ntp_text": [243,235,212],
+            "button_background": [48,46,45,1.0]
+        },
+        "tints": {
+            "buttons": [0.12,0.56,0.89]
+        },
+        "properties": {
+            "ntp_background_alignment": "",
+            "ntp_background_repeat": "no-repeat"
+        }
+    }
+}
