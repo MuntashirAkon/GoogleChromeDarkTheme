@@ -1,4 +1,5 @@
 # Dark Mode for Dark Reader
+> Google Chrome now has it's own dark mode.
 <center>
   <img src="./Screenshot/Screen Shot 2018-09-10 at 3.29.43 PM.png" />
 </center>
